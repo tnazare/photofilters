@@ -13,6 +13,7 @@
 		1D39311F1A7CCAC100287A97 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D39311E1A7CCAC100287A97 /* Images.xcassets */; };
 		1D3931221A7CCAC100287A97 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1D3931201A7CCAC100287A97 /* LaunchScreen.xib */; };
 		1D39312E1A7CCAC100287A97 /* PhotoFiltersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D39312D1A7CCAC100287A97 /* PhotoFiltersTests.swift */; };
+		1D3931381A7CCB1600287A97 /* IMG_1394.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 1D3931371A7CCB1600287A97 /* IMG_1394.JPG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		1D3931271A7CCAC100287A97 /* PhotoFiltersTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PhotoFiltersTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D39312C1A7CCAC100287A97 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1D39312D1A7CCAC100287A97 /* PhotoFiltersTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoFiltersTests.swift; sourceTree = "<group>"; };
+		1D3931371A7CCB1600287A97 /* IMG_1394.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = IMG_1394.JPG; path = "../../../Pictures/sauvegarde photo iPhone/20141019/IMG_1394.JPG"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		1D3931141A7CCAC100287A97 /* PhotoFilters */ = {
 			isa = PBXGroup;
 			children = (
+				1D3931371A7CCB1600287A97 /* IMG_1394.JPG */,
 				1D3931171A7CCAC100287A97 /* AppDelegate.swift */,
 				1D3931191A7CCAC100287A97 /* ViewController.swift */,
 				1D39311B1A7CCAC100287A97 /* Main.storyboard */,
@@ -192,6 +195,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1D3931381A7CCB1600287A97 /* IMG_1394.JPG in Resources */,
 				1D39311D1A7CCAC100287A97 /* Main.storyboard in Resources */,
 				1D3931221A7CCAC100287A97 /* LaunchScreen.xib in Resources */,
 				1D39311F1A7CCAC100287A97 /* Images.xcassets in Resources */,
